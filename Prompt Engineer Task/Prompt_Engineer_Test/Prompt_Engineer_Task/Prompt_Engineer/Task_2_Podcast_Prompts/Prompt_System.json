@@ -1,0 +1,11 @@
+{
+  "base_prompt": "\n            You are a professional podcast producer creating a 6-minute episode about \"The Ethics of AI in Hiring.\"\n            \n            Structure: Cold Open \u2192 Intro \u2192 3 Segments \u2192 CTA\n            Tone: Conversational, authoritative, engaging\n            Target: HR professionals and business leaders\n            \n            Generate content that maintains consistent pacing and professional insight throughout.\n            ",
+  "cold_open_prompt": "\n            Create a 30-second cold open that hooks listeners with a provocative question or scenario about AI bias in hiring.\n            Use specific, relatable examples. End with intrigue that leads into the intro.\n            ",
+  "intro_prompt": "\n            Create a 45-second intro that:\n            - Welcomes listeners warmly\n            - Introduces the topic clearly\n            - Previews the three main segments\n            - Establishes credibility and relevance\n            ",
+  "segment_prompts": [
+    "Segment 1 (90 seconds): The Current State - How AI is being used in hiring today, with specific examples and statistics",
+    "Segment 2 (90 seconds): The Ethical Dilemmas - Bias, fairness, and transparency issues with real case studies",
+    "Segment 3 (90 seconds): Best Practices - Actionable guidelines for ethical AI implementation in hiring"
+  ],
+  "cta_prompt": "\n            Create a 45-second call-to-action that:\n            - Summarizes key takeaways\n            - Provides specific next steps for listeners\n            - Includes subscription request\n            - Ends with memorable closing\n            "
+}

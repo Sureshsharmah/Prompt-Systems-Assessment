@@ -1,0 +1,4 @@
+Image 1 Prompt:
+Photorealistic grayscale image with single teal accent color #30C9CB, professional lighting, minimalist composition, high contrast, modern aesthetic, business professional woman in modern office, teal accent on laptop screen, clean background, confident pose, natural lighting
+
+Note: Actual image generation requires DALL-E-3 deployment in Azure OpenAI

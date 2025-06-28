@@ -1,0 +1,28 @@
+{
+  "prompts": [
+    "Photorealistic grayscale image with single teal accent color #30C9CB, professional lighting, minimalist composition, high contrast, modern aesthetic, business professional woman in modern office, teal accent on laptop screen, clean background, confident pose, natural lighting",
+    "Photorealistic grayscale image with single teal accent color #30C9CB, professional lighting, minimalist composition, high contrast, modern aesthetic, abstract geometric shapes with teal highlights, architectural elements, shadows and depth, corporate minimalism",
+    "Photorealistic grayscale image with single teal accent color #30C9CB, professional lighting, minimalist composition, high contrast, modern aesthetic, modern workspace setup, teal accent on single design element, clean desk, natural textures, professional atmosphere"
+  ],
+  "generated_images": [
+    {
+      "filename": "Image_1_placeholder.txt",
+      "prompt": "Photorealistic grayscale image with single teal accent color #30C9CB, professional lighting, minimalist composition, high contrast, modern aesthetic, business professional woman in modern office, teal accent on laptop screen, clean background, confident pose, natural lighting",
+      "status": "Image generation not available - DALL-E-3 deployment required",
+      "placeholder_url": "https://placeholder.com/1024x1024?text=Image+1"
+    },
+    {
+      "filename": "Image_2_placeholder.txt",
+      "prompt": "Photorealistic grayscale image with single teal accent color #30C9CB, professional lighting, minimalist composition, high contrast, modern aesthetic, abstract geometric shapes with teal highlights, architectural elements, shadows and depth, corporate minimalism",
+      "status": "Image generation not available - DALL-E-3 deployment required",
+      "placeholder_url": "https://placeholder.com/1024x1024?text=Image+2"
+    },
+    {
+      "filename": "Image_3_placeholder.txt",
+      "prompt": "Photorealistic grayscale image with single teal accent color #30C9CB, professional lighting, minimalist composition, high contrast, modern aesthetic, modern workspace setup, teal accent on single design element, clean desk, natural textures, professional atmosphere",
+      "status": "Image generation not available - DALL-E-3 deployment required",
+      "placeholder_url": "https://placeholder.com/1024x1024?text=Image+3"
+    }
+  ],
+  "note": "Image generation requires DALL-E-3 deployment in Azure OpenAI"
+}

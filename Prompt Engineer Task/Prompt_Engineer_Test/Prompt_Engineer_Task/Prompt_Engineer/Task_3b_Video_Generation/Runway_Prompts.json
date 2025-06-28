@@ -1,0 +1,18 @@
+[
+  {
+    "prompt_1": "A cluttered desk with productivity books scattered around, a timer ticking, showing a frustrated person's hands shuffling through papers. Camera slowly zooms out to reveal the chaos. Cinematic lighting, 4K quality, smooth motion.",
+    "settings": "Duration: 4 seconds, Motion: Medium, Camera: Zoom out"
+  },
+  {
+    "prompt_2": "Split screen composition: left side shows generic morning routine (alarm clock, meditation pose), right side shows real person struggling with the same routine. Smooth transition between scenes. Professional lighting, realistic style.",
+    "settings": "Duration: 5 seconds, Motion: Low, Camera: Static with transitions"
+  },
+  {
+    "prompt_3": "Person discovering their natural work rhythm, working effectively in their preferred environment (could be evening, with music, in comfortable clothes). Confident body language, steady movements. Warm, natural lighting.",
+    "settings": "Duration: 6 seconds, Motion: Medium, Camera: Gentle pan"
+  },
+  {
+    "prompt_4": "Clean, organized workspace with the same person now working contentedly and efficiently. Gentle fade transition to end screen. Soft, professional lighting, minimalist aesthetic.",
+    "settings": "Duration: 5 seconds, Motion: Low, Camera: Slow push in"
+  }
+]

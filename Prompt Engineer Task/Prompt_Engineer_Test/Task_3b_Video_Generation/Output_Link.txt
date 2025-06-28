@@ -1,0 +1,2 @@
+Video output would be generated using Runway ML or similar platform with the provided prompts.
+Expected output: 15-20 second video following the structured prompt system.

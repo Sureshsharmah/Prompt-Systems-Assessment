@@ -1,0 +1,31 @@
+{
+  "original_gpt": {
+    "name": "Email Marketing Assistant",
+    "description": "Helps create email marketing campaigns",
+    "current_structure": [
+      "Generic greeting",
+      "Ask for campaign details",
+      "Generate email content",
+      "Provide basic suggestions"
+    ]
+  },
+  "strengths": [
+    "Simple user interface",
+    "Covers basic email marketing needs",
+    "Provides templates"
+  ],
+  "weaknesses": [
+    "Lacks audience segmentation consideration",
+    "No A/B testing guidance",
+    "Generic output without brand voice customization",
+    "Missing compliance and deliverability factors",
+    "No performance metrics integration"
+  ],
+  "failure_scenarios": [
+    "Generates content that violates CAN-SPAM regulations",
+    "Creates emails without considering sender reputation",
+    "Produces generic content that doesn't match brand voice",
+    "Fails to optimize for mobile devices",
+    "Doesn't account for different email client rendering"
+  ]
+}

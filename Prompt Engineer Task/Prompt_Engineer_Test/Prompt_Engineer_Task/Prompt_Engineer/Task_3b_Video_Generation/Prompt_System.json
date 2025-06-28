@@ -1,0 +1,37 @@
+{
+  "title": "Why Most Productivity Advice Fails",
+  "duration": "15-20 seconds",
+  "structure": {
+    "opening": {
+      "duration": "0-3 seconds",
+      "visual": "Close-up of cluttered desk with productivity books, timer showing, frustrated person",
+      "motion": "Slow zoom out revealing chaos",
+      "text_overlay": "The Problem with Productivity"
+    },
+    "transition_1": {
+      "duration": "3-8 seconds",
+      "visual": "Split screen: left shows generic advice (early morning, meditation), right shows real person struggling",
+      "motion": "Smooth transition between scenes",
+      "text_overlay": "Generic vs Reality"
+    },
+    "revelation": {
+      "duration": "8-15 seconds",
+      "visual": "Person finding their own rhythm, working effectively in their natural environment",
+      "motion": "Confident, steady movements",
+      "text_overlay": "Find YOUR System"
+    },
+    "closing": {
+      "duration": "15-20 seconds",
+      "visual": "Clean, organized workspace with person working contentedly",
+      "motion": "Gentle fade to logo/CTA",
+      "text_overlay": "Personalized Productivity"
+    }
+  },
+  "technical_specs": {
+    "aspect_ratio": "16:9",
+    "style": "Modern, clean aesthetic",
+    "color_palette": "Muted tones with accent colors",
+    "lighting": "Natural, professional",
+    "camera_movement": "Smooth, purposeful transitions"
+  }
+}
