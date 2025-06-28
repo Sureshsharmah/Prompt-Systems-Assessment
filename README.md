@@ -1,6 +1,5 @@
 # Prompt-Engineer-Assessment
 
-# 🚀 Prompt Engineer Screening Test
 
 ## 📋 Overview
 
